@@ -20,5 +20,5 @@ Then look for the file :
 - /src/main/resources/db.sql
 
 - db.sql file contents all step for DB table creation commands.
-
+source
 
